@@ -1,2 +1,0 @@
-23/07/2026 13:37:03 - INFO - --- NOVA SESSÃO INICIADA: wellingtoncorreia (wellington.borsato@yahoo.com.br) ---
-23/07/2026 13:37:03 - INFO - Workspace físico (C:\Projetos_Lab) varrido e destruído.
